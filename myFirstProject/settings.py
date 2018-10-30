@@ -25,7 +25,7 @@ SECRET_KEY = '49kx4%7c7_f-y3b)+nebfsdt=p!e%a@+z06m*ggkyz0p2kx%r^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://andreasheid.pythonanywhere.com/','127.0.0.1']
+ALLOWED_HOSTS = ['andreasheid.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
@@ -118,5 +118,6 @@ USE_TZ = True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
+STATIC_ROOT = "/home/andreasheid/MyFirstProject/myFirstApp/static"
 
 STATIC_URL = '/static/'
