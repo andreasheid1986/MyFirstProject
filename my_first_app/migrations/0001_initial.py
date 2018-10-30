@@ -31,6 +31,6 @@ class Migration(migrations.Migration):
         migrations.AddField(
             model_name='choice',
             name='question',
-            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='myFirstApp.Question'),
+            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='my_first_app.Question'),
         ),
     ]
