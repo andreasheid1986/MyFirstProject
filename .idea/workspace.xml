@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f7f2d4e-ef9a-49e8-8bc3-ebe2a867b98e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my_first_app/templates/firsttemplate_more.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_first_app/templates/firsttemplate_more.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +26,7 @@
       <file leaf-file-name="firsttemplate.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_first_app/templates/firsttemplate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="2244">
               <caret line="132" selection-start-line="132" selection-end-line="132" selection-end-column="6" />
             </state>
           </provider>
@@ -34,8 +35,8 @@
       <file leaf-file-name="firsttemplate_more.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my_first_app/templates/firsttemplate_more.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="127" column="68" lean-forward="true" selection-start-line="127" selection-start-column="68" selection-end-line="127" selection-end-column="68" />
+            <state relative-caret-position="34">
+              <caret line="112" column="85" lean-forward="true" selection-start-line="112" selection-start-column="85" selection-end-line="112" selection-end-column="85" />
             </state>
           </provider>
         </entry>
@@ -43,7 +44,7 @@
       <file leaf-file-name="error_message_app.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_first_app/templates/error_message_app.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="2176">
               <caret line="128" column="60" selection-start-line="128" selection-start-column="60" selection-end-line="128" selection-end-column="60" />
             </state>
           </provider>
@@ -52,7 +53,7 @@
       <file leaf-file-name="error_report_app.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_first_app/templates/error_report_app.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
+            <state relative-caret-position="1972">
               <caret line="116" column="6" selection-start-line="116" selection-start-column="6" selection-end-line="116" selection-end-column="6" />
             </state>
           </provider>
@@ -84,7 +85,7 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_first_app/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="85">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
@@ -142,7 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,6 +170,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,7 +241,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3294271" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30201343" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30201343" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32885906" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -526,7 +527,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my_first_app/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="85">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
@@ -536,29 +537,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my_first_app/templates/error_report_app.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
+        <state relative-caret-position="1972">
           <caret line="116" column="6" selection-start-line="116" selection-start-column="6" selection-end-line="116" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my_first_app/templates/error_message_app.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="2176">
           <caret line="128" column="60" selection-start-line="128" selection-start-column="60" selection-end-line="128" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my_first_app/templates/firsttemplate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="2244">
           <caret line="132" selection-start-line="132" selection-end-line="132" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my_first_app/templates/firsttemplate_more.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="127" column="68" lean-forward="true" selection-start-line="127" selection-start-column="68" selection-end-line="127" selection-end-column="68" />
+        <state relative-caret-position="34">
+          <caret line="112" column="85" lean-forward="true" selection-start-line="112" selection-start-column="85" selection-end-line="112" selection-end-column="85" />
         </state>
       </provider>
     </entry>
