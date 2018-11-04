@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6f7f2d4e-ef9a-49e8-8bc3-ebe2a867b98e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/my_first_app/templates/firsttemplate.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_first_app/templates/firsttemplate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_first_app/templates/firsttemplate_more.html" beforeDir="false" afterPath="$PROJECT_DIR$/my_first_app/templates/firsttemplate_more.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,20 +22,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="firsttemplate.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="firsttemplate.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my_first_app/templates/firsttemplate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="660">
+              <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="firsttemplate_more.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="firsttemplate_more.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_first_app/templates/firsttemplate_more.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-850">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="10" />
+            <state relative-caret-position="221">
+              <caret line="13" column="21" selection-start-line="7" selection-end-line="51" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -126,8 +125,8 @@
         <option value="$PROJECT_DIR$/my_first_app/views.py" />
         <option value="$PROJECT_DIR$/my_first_app/templates/error_report_app.html" />
         <option value="$PROJECT_DIR$/my_first_app/templates/error_message_app.html" />
-        <option value="$PROJECT_DIR$/my_first_app/templates/firsttemplate.html" />
         <option value="$PROJECT_DIR$/my_first_app/templates/firsttemplate_more.html" />
+        <option value="$PROJECT_DIR$/my_first_app/templates/firsttemplate.html" />
       </list>
     </option>
   </component>
@@ -549,17 +548,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my_first_app/templates/firsttemplate.html">
+    <entry file="file://$PROJECT_DIR$/my_first_app/templates/firsttemplate_more.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="221">
+          <caret line="13" column="21" selection-start-line="7" selection-end-line="51" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my_first_app/templates/firsttemplate_more.html">
+    <entry file="file://$PROJECT_DIR$/my_first_app/templates/firsttemplate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-850">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="10" />
+        <state relative-caret-position="660">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
         </state>
       </provider>
     </entry>
